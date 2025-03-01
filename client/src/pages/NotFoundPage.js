@@ -8,7 +8,7 @@ import styled from 'styled-components';
 import useScrollToTopOnPageLoad from '../hooks/useScrollToTopOnPageLoad';
 
 const NotFoundPage = () => {
-   
+
   useScrollToTopOnPageLoad();
 
   return (
